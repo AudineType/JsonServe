@@ -1,0 +1,24 @@
+{
+    "template": {
+        "img": {
+            "attrs": {
+                "alt": "JsonServe Logo",
+                "src": "./public/icon.png",
+                "width": "500px"
+            }
+        },
+        "h1": {
+            "attrs": {
+                "class": "Welcome"
+            },
+            "text": "Welcome to JsonServe you can use"
+        },
+        "{h1}": {
+            "attrs": {
+                "class": "json"
+            },
+            "text": "Json"
+        }
+    },
+    "required": []
+}
